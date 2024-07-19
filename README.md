@@ -78,5 +78,5 @@ For more advanced animations and interactivity, consider using external platform
 
 ### Example Animated GIF
 
-![Animated Climate Change](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)(https://giphy.com/clips/studiosoriginals-earth-day-9CcI8mYGAXrPiaSyWy)
+![Animated Climate Change](https://giphy.com/clips/studiosoriginals-earth-day-9CcI8mYGAXrPiaSyWy)
 
