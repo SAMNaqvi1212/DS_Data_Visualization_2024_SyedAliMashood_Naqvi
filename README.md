@@ -23,8 +23,8 @@ This project, created by Ali Mashood, aims to provide a comprehensive analysis o
 #### Graph 1: CO2 Emissions from Different Sources Over Years
 ![CO2 Emissions Graph](https://github.com/SAMNaqvi1212/DS_Data_Visualization_2024_SyedAliMashood_Naqvi/blob/main/newplot.png)
 
-#### Graph 2: Population Growth Over Years
-![Population Growth Graph]([path/to/your/second-graph.png](https://github.com/SAMNaqvi1212/DS_Data_Visualization_2024_SyedAliMashood_Naqvi/blob/main/newplot2.png))
+#### Graph 2: Rainfall and Agricultural Growth Over Years
+![Rainfall and Agricultural Growth Over Years](https://github.com/SAMNaqvi1212/DS_Data_Visualization_2024_SyedAliMashood_Naqvi/blob/main/newplot2.png)
 
 ### Conclusion
 
