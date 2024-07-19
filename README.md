@@ -78,10 +78,8 @@ For more advanced animations and interactivity, consider using external platform
 
 ### Example Animated GIF
 
-Below is an example of how you can include an animated GIF to demonstrate changes over time:
-
 ![Animated Climate Change](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
-> *Note: Replace the GIF link with your own relevant content.*
+
 
 #### Example Embedded YouTube Video
 
@@ -89,3 +87,4 @@ To embed a video, you can use HTML within your Markdown:
 
 ```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+<div style="width:100%;height:0;padding-bottom:85%;position:relative;"><iframe src="https://giphy.com/embed/mf8UbIDew7e8g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/earth-mf8UbIDew7e8g">via GIPHY</a></p>
