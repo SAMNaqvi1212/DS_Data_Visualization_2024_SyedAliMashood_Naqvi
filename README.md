@@ -80,8 +80,7 @@ For more advanced animations and interactivity, consider using external platform
 
 Below is an example of how you can include an animated GIF to demonstrate changes over time:
 
-![Animated Climate Change](https://giphy.com/gifs/earth-mf8UbIDew7e8g)
-
+![Animated Climate Change](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 > *Note: Replace the GIF link with your own relevant content.*
 
 #### Example Embedded YouTube Video
