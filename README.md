@@ -78,5 +78,5 @@ For more advanced animations and interactivity, consider using external platform
 
 ### Example Animated GIF
 
-![Animated Climate Change](https://giphy.com/clips/studiosoriginals-earth-day-9CcI8mYGAXrPiaSyWy)
+![Animated Climate Change](https://github.com/SAMNaqvi1212/DS_Data_Visualization_2024_SyedAliMashood_Naqvi/blob/main/Angry%20Earth%20-%20GIPHY%20Clips.html)
 
